@@ -19,20 +19,20 @@ layout: default
 
   <div style="display:flex;align-items:center;gap:0.5rem;font-family:'IBM Plex Mono',ui-monospace,'SF Mono',Consolas,monospace;font-size:0.78rem;letter-spacing:0.06em;color:#3FB68B;text-transform:uppercase;margin-bottom:1.4rem;">
     <span style="width:8px;height:8px;border-radius:50%;background:#3FB68B;display:inline-block;"></span>
-    status: active — building toward soc analyst
+    status: active
   </div>
 
-  <h1 style="font-size:clamp(2.1rem,5vw,3.2rem);font-weight:700;margin:0 0 0.5rem;letter-spacing:-0.02em;color:#F4F6FB;">Your Name</h1>
+  <h1 style="font-size:clamp(2.1rem,5vw,3.2rem);font-weight:700;margin:0 0 0.5rem;letter-spacing:-0.02em;color:#F4F6FB;">Pranshu</h1>
 
   <p style="font-family:'IBM Plex Mono',ui-monospace,'SF Mono',Consolas,monospace;font-size:1rem;font-weight:500;color:#F2A93B;margin:0 0 1.25rem;">Defensive Security &middot; Threat Detection &amp; Response</p>
 
   <p style="max-width:62ch;color:#AEB8CC;font-size:1.05rem;margin:0 0 2rem;">I'm building toward a SOC analyst role through hands-on lab work, log analysis, and incident response practice &mdash; not just coursework. Currently working through detection engineering exercises and case studies while finishing CompTIA Security+.</p>
 
   <div style="display:flex;flex-wrap:wrap;gap:0.75rem;margin-bottom:3rem;">
-    <a href="https://github.com/yourusername" target="_blank" rel="noopener noreferrer" class="cyberport-link" style="display:inline-flex;align-items:center;padding:0.55rem 1.1rem;background:#121A2B;border:1px solid #1F2A40;border-radius:8px;color:#E8ECF4;text-decoration:none;font-size:0.9rem;font-weight:500;">GitHub</a>
-    <a href="https://linkedin.com/in/yourusername" target="_blank" rel="noopener noreferrer" class="cyberport-link" style="display:inline-flex;align-items:center;padding:0.55rem 1.1rem;background:#121A2B;border:1px solid #1F2A40;border-radius:8px;color:#E8ECF4;text-decoration:none;font-size:0.9rem;font-weight:500;">LinkedIn</a>
+    <a href="https://github.com/thunder0308" target="_blank" rel="noopener noreferrer" class="cyberport-link" style="display:inline-flex;align-items:center;padding:0.55rem 1.1rem;background:#121A2B;border:1px solid #1F2A40;border-radius:8px;color:#E8ECF4;text-decoration:none;font-size:0.9rem;font-weight:500;">GitHub</a>
+    <a href="https://linkedin.com/in/pranshuparashar" target="_blank" rel="noopener noreferrer" class="cyberport-link" style="display:inline-flex;align-items:center;padding:0.55rem 1.1rem;background:#121A2B;border:1px solid #1F2A40;border-radius:8px;color:#E8ECF4;text-decoration:none;font-size:0.9rem;font-weight:500;">LinkedIn</a>
     <a href="/assets/resume.pdf" target="_blank" rel="noopener noreferrer" class="cyberport-link" style="display:inline-flex;align-items:center;padding:0.55rem 1.1rem;background:#121A2B;border:1px solid #1F2A40;border-radius:8px;color:#E8ECF4;text-decoration:none;font-size:0.9rem;font-weight:500;">Resume</a>
-    <a href="mailto:you@example.com" class="cyberport-link" style="display:inline-flex;align-items:center;padding:0.55rem 1.1rem;background:#121A2B;border:1px solid #1F2A40;border-radius:8px;color:#E8ECF4;text-decoration:none;font-size:0.9rem;font-weight:500;">Email</a>
+    <a href="mailto:pranshu030803@gmail.com" class="cyberport-link" style="display:inline-flex;align-items:center;padding:0.55rem 1.1rem;background:#121A2B;border:1px solid #1F2A40;border-radius:8px;color:#E8ECF4;text-decoration:none;font-size:0.9rem;font-weight:500;">Email</a>
   </div>
 
   <div style="height:1px;background:#1B2438;margin:0 0 2.5rem;"></div>
