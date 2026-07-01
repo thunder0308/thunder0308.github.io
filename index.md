@@ -44,7 +44,7 @@ layout: default
     <div style="display:flex;flex-wrap:wrap;align-items:center;justify-content:space-between;gap:0.5rem;background:#121A2B;border:1px solid #1B2438;border-radius:10px;padding:1.1rem 1.25rem;">
       <div>
         <div style="font-weight:600;color:#F4F6FB;margin-bottom:0.3rem;">Google Cybersecurity Professional Certificate</div>
-        <div style="font-family:'IBM Plex Mono',ui-monospace,monospace;font-size:0.8rem;color:#8B96AC;">Google &middot; Coursera &mdash; Issued [Month Year]</div>
+        <div style="font-family:'IBM Plex Mono',ui-monospace,monospace;font-size:0.8rem;color:#8B96AC;">Google &middot; Coursera &mdash; Issued [May 2026]</div>
       </div>
       <div style="display:flex;align-items:center;gap:0.4rem;font-family:'IBM Plex Mono',ui-monospace,monospace;font-size:0.72rem;letter-spacing:0.05em;color:#3FB68B;text-transform:uppercase;white-space:nowrap;">
         <span style="width:7px;height:7px;border-radius:50%;background:#3FB68B;display:inline-block;"></span>complete
